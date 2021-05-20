@@ -1,0 +1,21 @@
+1) just  input type password  is secured and  can't see data in it !! input type text is readable 
+2) <ul>
+<li><bdi>html</bdi>لقد تعلمت اللغة </li>
+<li>الأن سوف اتعلم اللغة<bdi> css</bdi> لتعلم تصميم المواقع</li>
+ </ul>   
+<ol>
+<li><bdi>html</bdi>لقد تعلمت اللغة </li>
+<li>
+الأن سوف اتعلم اللغة<bdi> css</bdi> لتعلم تصميم المواقع
+</li>
+</ol>
+3)<img src="html/" style="height: 400px;">
+4) to add buttons to control audio or video like pause and play button and sound bar 
+5) head element contain few website informations like icon and  name  ... but body element contain the most importants  elements in the website 
+6) Html5 is just  the version 5  of html " hypertext markup language " 
+7)to describe your website if that one shared in facebook or twitter post 
+8) to link website with an search engine 
+9)to let the website to read all characters and symboles ! 
+10) to make your website compatible with different devices screens like mobiles and laptops etc .... 
+her is my website in that i 've  used  most important  html elments that i learned in  academy shiyar : https://htmlcertificate.blogspot.com  
+peace ! 
